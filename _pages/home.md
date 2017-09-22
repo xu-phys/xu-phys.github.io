@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-This website is adapted from the Allan Lab github repository (thanks for providing an elegant template), and I am working to replace with my info. Sorry if you see some previous content before I am done.
+<!-- This website is adapted from the Allan Lab github repository (thanks for providing an elegant template), and I am working to replace with my info. Sorry if you see some previous content before I am done. -->
 
 I am currently a Research Assisant Professor working in the [Computational Condensed Matter Physics (CCMP) Group](https://ccmp.uark.edu/)(lead by Prof. [Laurent Bellaiche](https://fulbright.uark.edu/departments/physics/directory/index/uid/laurent/name/Laurent-Bellaiche/)) at the [Physics Department at Univerisity of Arkansas](http://fulbright.uark.edu/departments/physics). Before that, I had been a postoctoral researcher at [Université de Liège](https://www.ulg.ac.be/cms/c_5000/en/home) in the [Nanomat lab](http://www.nanomat.ulg.ac.be/) (lead by Prof. [Matthieu Verstraete](http://www.nanomat.ulg.ac.be/?page_id=26)), and at the [University of Texas at Arlington](http://www.uta.edu) in the group of Prof. [Peter Kroll](https://mentis.uta.edu/explore/profile/dr-peter-kroll). I obtained my B.S. degree in physics at [University of Science and Technology of China (USTC)](http://en.ustc.edu.cn), and my Ph.D. degree in physics at [Auburn University](http://www.auburn.edu). For full details see my [CV](cv).
 
