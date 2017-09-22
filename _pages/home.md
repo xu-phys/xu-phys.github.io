@@ -8,8 +8,9 @@ permalink: /
 
 This website is adapted from the Allan Lab github repository (thanks for providing an elegant template), and I am working to replace with my info. Sorry if you see some previous content before I am done.
 
-We are a small, dynamic group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter. 
- 
+I am currently a Research Assisant Professor working in the [Computational Condensed Matter Physics (CCMP) Group](https://ccmp.uark.edu/)(lead by Prof. [Laurent Bellaiche](https://fulbright.uark.edu/departments/physics/directory/index/uid/laurent/name/Laurent-Bellaiche/)) at the [Physics Department at Univerisity of Arkansas](http://fulbright.uark.edu/departments/physics). Before that, I had been a postoctoral researcher at [Université de Liège](https://www.ulg.ac.be/cms/c_5000/en/home) in the [Nanomat lab](http://www.nanomat.ulg.ac.be/) (lead by Prof. [Matthieu Verstraete](http://www.nanomat.ulg.ac.be/?page_id=26)), and at the [University of Texas at Arlington](http://www.uta.edu) in the group of Prof. [Peter Kroll](https://mentis.uta.edu/explore/profile/dr-peter-kroll). I obtained my B.S. degree in physics at [University of Science and Technology of China (USTC)](http://en.ustc.edu.cn), and my Ph.D. degree in physics at [Auburn University](http://www.auburn.edu). For full details see my [CV](cv).
+
+My research is in the field of computational solid state physics, using density functional theory, effective Hamiltonian, statistical physics, transport theory and computational techniques to investigate materials of fundamental and technological interests. I am particularly interested in the first-principles-based studies of ferroelectrics, multiferroics, thermoelectric properties, and structural transformations.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
@@ -25,19 +26,19 @@ We are a small, dynamic group at the [Leiden Institute of Physics](http://www.ph
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cake_web.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/afe.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/logos.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/switching.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Group2015_red.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/hif.png" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/FabSCAU.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Li.png" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/tamagochi.jpg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Ph_lwd.png" alt="Slide 5" />
         </div>
     </div> 
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -53,24 +54,12 @@ We are a small, dynamic group at the [Leiden Institute of Physics](http://www.ph
 
 
 
-To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want do be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
-
-We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
-
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+<!-- **I am  looking for a permanent position** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!** -->
  
  
-We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).
-
-<figure class="fourth">
+<!--<figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
-</figure>
-
-
-
-
-
-
+</figure> -->
