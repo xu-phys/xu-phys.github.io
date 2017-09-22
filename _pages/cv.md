@@ -1,9 +1,9 @@
 ---
-title: "Allan Lab - Team"
+title: "Bin Xu's website - CV"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "Bin Xu's website - CV"
 sitemap: false
-permalink: /team/
+permalink: /cv/
 ---
 
 # Group Members

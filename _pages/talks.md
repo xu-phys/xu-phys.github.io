@@ -1,9 +1,9 @@
 ---
-title: "Allan Lab - Vacancies"
+title: "Bin Xu's website - Talks"
 layout: textlay
-excerpt: "Openings"
+excerpt: "Talks"
 sitemap: false
-permalink: /vacancies
+permalink: /talks
 ---
 
 # Open positions
