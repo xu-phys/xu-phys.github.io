@@ -1,10 +1,12 @@
 ---
-title: "Allan Lab - Home"
+title: "Bin Xu's website - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Bin Xu's personal website."
 sitemap: false
 permalink: /
 ---
+
+This website is adapted from the Allan Lab github repository (thanks for providing an elegant template), and I am working to replace with my info. Sorry if you see some previous content before I am done.
 
 We are a small, dynamic group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter. 
  

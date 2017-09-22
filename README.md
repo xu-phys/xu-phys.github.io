@@ -1,11 +1,8 @@
-# Allan Lab Website
+# Bin XU's Website
 
-This is the website of our academic research group at Leiden University.
+This website is about my academic activities.
 
-This website is powered by Jekyll and some Bootstrap, Bootwatch. We tried to make it simple yet adaptable, so that it is easy for you to re-use it for your purpose. Plese feel free to copy and modify for your own purposes.  You don't have to link to us or mention us (but of course we appreciate it).
+This website is powered by Jekyll and some Bootstrap, Bootwatch, adopted from http://www.allanlab.org (many thanks!).
 
-Go to *aboutwebsite.md*  to learn how to copy and modidy this page for your purpose. 
-
-
-Copyright Allan Lab. Code released under the MIT License.
+Code released under the MIT License.
 
