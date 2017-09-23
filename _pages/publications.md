@@ -54,10 +54,47 @@ permalink: /publications/
 
 ## Full List
 
-{% for publi in site.data.publist %}
+* 2017
+
+{% for publi in site.data.publist_2017 %}
 
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
 
+* 2016
+
+{% for publi in site.data.publist_2016 %}
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endfor %}
+
+* 2015
+
+{% for publi in site.data.publist_2015 %}
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endfor %}
+
+* 2014
+
+{% for publi in site.data.publist_2014 %}
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endfor %}
+
+* 2006 - 2013
+
+{% for publi in site.data.publist_older %}
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endfor %}

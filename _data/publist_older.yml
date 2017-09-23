@@ -1,0 +1,69 @@
+- title: First-principles study of transport properties in Os and OsSi
+  image: dummy.png
+  description: ""
+  authors:
+    <b>Bin Xu</b> and Matthieu J. Verstraete
+  link:
+    url: http://link.aps.org/doi/10.1103/PhysRevB.87.134302
+    display: Phys. Rev. B 87 134302 (2013)
+  highlight: 0
+
+- title: LaAu2 and CeAu2 surface intermetallic compounds grown by reactive deposition on Au(111)
+  image: dummy.png
+  description: ""
+  authors:
+    M. Ormaza, L. Fernández, S. Lafuente, M. Corso, F. Schiller, B. Xu, M. Diakhate, M. J. Verstraete, and J. E. Ortega
+  link:
+    url: http://link.aps.org/doi/10.1103/PhysRevB.88.125405
+    display: Phys. Rev. B 88 125405 (2013)
+  highlight: 0
+
+- title: "Equilibrium and metastable phase transitions in silicon nitride at high pressure: a first-principles and experimental study"
+  image: dummy.png
+  description: ""
+  authors:
+    <b>Bin Xu</b>, Jianjun Dong, Paul F. McMillan, Olga Shebanova, and Ashkan Salamat
+  link:
+    url: http://link.aps.org/doi/10.1103/PhysRevB.84.014113
+    display: Phys. Rev. B 84 014113 (2011)
+  highlight: 0
+
+- title: First-principles calculation of kinetic barriers and metastability for the corundum- to-Rh2O3(II) transition in Al2O3
+  image: dummy.png
+  description: ""
+  authors:
+    <b>Bin Xu</b>, Harold Stokes, and Jianjun Dong
+  link:
+    url: http://iopscience.iop.org/article/10.1088/0953-8984/22/31/315403/meta
+    display: "J. Phys.: Condens. Matter. 22 (31), 315403 (2010)"
+  highlight: 0
+
+- title: High-pressure study of β-to-α transition in Ga2O3
+  image: dummy.png
+  description: ""
+  authors:
+    Denis Machon, Paul F. McMillan, <b>Bin Xu</b>, and Jianjun Dong
+  link:
+    url: http://link.aps.org/doi/10.1103/PhysRevB.73.094125
+    display: Phys. Rev. B 73, 094125 (2006)
+  highlight: 0
+
+- title: "Spinel-Structured Gallium Oxynitride (Ga3O3N) Synthesis and Characterization: An Experimental and theoretical Study"
+  image: dummy.png
+  description: ""
+  authors:
+    Emmanuel Soignard, Denis Machon, Paul F. McMillan, Jianjun Dong, <b>Bin Xu</b>, and Kurt Leinenweber
+  link:
+    url: http://pubs.acs.org/doi/abs/10.1021/cm051224p
+    display: Chem. Mater. 17 (22), 5465, (2005)
+  highlight: 0
+
+- title: Blueshifted Raman scattering and its correlation with the [110] growth direction in gallium oxide nanowires
+  image: dummy.png
+  description: ""
+  authors:
+    R. Rao, A. M. Rao, B. Xu, J. Dong, S. Sharma, and M. K. Sunkara
+  link:
+    url: http://aip.scitation.org/doi/abs/10.1063/1.2128044?journalCode=jap
+    display: J. Appl. Phys. 98(9), 094312, (2005)
+  highlight: 0
