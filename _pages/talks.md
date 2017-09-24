@@ -6,53 +6,35 @@ sitemap: false
 permalink: /talks
 ---
 
-## Full List
+# Inivited Talks
 
-* 2017
+{% for talk in site.data.talks_inv %}
 
-{% for publi in site.data.publist_2017 %}
-
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
-{% endfor %}
-
-* 2016
-
-{% for publi in site.data.publist_2016 %}
-
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  {{ talk.title }} <br />
+  <b>{{ talk.conf }} </b><br />
+  {{ talk.place }} <br />
+  {{ talk.date }} <br />
 
 {% endfor %}
 
-* 2015
+# Contributed Talks
 
-{% for publi in site.data.publist_2015 %}
+{% for talk in site.data.talks_contr %}
 
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
-{% endfor %}
-
-* 2014
-
-{% for publi in site.data.publist_2014 %}
-
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  {{ talk.title }} <br />
+  <b>{{ talk.conf }} </b><br />
+  {{ talk.place }} <br />
+  {{ talk.date }} <br />
 
 {% endfor %}
 
-* 2006 - 2013
+# Invited Seminars
 
-{% for publi in site.data.publist_older %}
+{% for talk in site.data.talks_seminar %}
 
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  {{ talk.title }} <br />
+  <b>{{ talk.conf }} </b><br />
+  {{ talk.place }} <br />
+  {{ talk.date }} <br />
 
 {% endfor %}
-
-<!-- <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
-</figure> -->
