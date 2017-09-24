@@ -12,7 +12,7 @@
   image: dummy.png
   description: ""
   authors:
-    M. Ormaza, L. Fernández, S. Lafuente, M. Corso, F. Schiller, B. Xu, M. Diakhate, M. J. Verstraete, and J. E. Ortega
+    M. Ormaza, L. Fernández, S. Lafuente, M. Corso, F. Schiller, <b>B. Xu</b>, M. Diakhate, M. J. Verstraete, and J. E. Ortega
   link:
     url: http://link.aps.org/doi/10.1103/PhysRevB.88.125405
     display: Phys. Rev. B 88 125405 (2013)
@@ -62,7 +62,7 @@
   image: dummy.png
   description: ""
   authors:
-    R. Rao, A. M. Rao, B. Xu, J. Dong, S. Sharma, and M. K. Sunkara
+    R. Rao, A. M. Rao, <b>B. Xu</b>, J. Dong, S. Sharma, and M. K. Sunkara
   link:
     url: http://aip.scitation.org/doi/abs/10.1063/1.2128044?journalCode=jap
     display: J. Appl. Phys. 98(9), 094312, (2005)
