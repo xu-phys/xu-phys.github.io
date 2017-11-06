@@ -10,15 +10,15 @@
   news2: 
 
 - title: Designing lead-free antiferroelectrics for energy storage
-  image: dummy.png
-  description: ""
+  image: BNFO_AFE.jpg
+  description: "The BRFO system is antiferroelectric (AFE) with relatively large composition of rare earth, and it is predicted to be very promising for high-power energy storage. Additionally, a simple model is derived to describe the energy density and efficiency of a general AFE material, providing a framework to assess the effect on the storage properties of variations in doping, electric field magnitude and direction, epitaxial strain, temperature, etc., which can facilitate future search of antiferroelectric materials for energy storage."
   authors: 
     <b>Bin Xu</b>\*, Jorge Íñiguez, and Laurent Bellaiche\*
   link:
     url: https://www.nature.com/articles/ncomms15682
     display:  Nat. Commun. 8 15682 (2017)
-  highlight: 0
-  news2: 
+  highlight: 1
+  news2: See also <a href="https://news.uark.edu/articles/39011/study-demonstrates-a-better-way-to-store-renewable-energy"> U of A news </a>, <a href="https://phys.org/news/2017-06-energy-renewable-sources-scientists-antiferroelectrics.html"> Phys.org </a> by Lisa Zyga
 
 - title: Photostrictive two-dimensional materials in the monochalcogenide family
   image: dummy.png
@@ -31,25 +31,25 @@
   highlight: 0
   
 - title: Intrinsic polarization switching mechanisms in BiFeO3
-  image: dummy.png
-  description:
+  image: T-BFO_switch.png
+  description: "The polarization switching mechanisms in intrinsic BFO is found to be homogeneous in the rhombohedral phase, for which the polarization is strongly coupled to oxygen octahedral tiltings. On the other hand, in the super-tetragonal phase the switching mechanism changes with increasing electric field, which can be explained by the field dependence of the switching barriers as well as the hierarchy of these barriers between different switching processes."
   authors: 
     <b>Bin Xu</b>\*, Vincent Garcia, Stéphane Fusil, Manuel Bibes, and L. Bellaiche
   link:
     url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.95.104104
     display: Phys. Rev. B 95, 104104(2017)
-  highlight: 0
+  highlight: 1
 
 - title: Learning through ferroelectric domain dynamics in solid-state synapses
-  image: dummy.jpg
-  description:
+  image: stdp.png
+  description: "The inhomogeneous switching can lead to memristive behavior when it is used in ferroelectric tunnel junctions (FTJ). In this work we report spike-timing-dependent plasticity (STDP) from BFO-based FTJs. The STDP behavior relies on the change of resistance states (memristor), which originates from the intrinsic inhomogeneous polarization switching. Unsupervised learning of pattern recognition is further demonstrated."
   authors: 
     Sören Boyn\*, Julie Grollier, Gwendal Lecerf, <b>Bin Xu</b>, Nicolas Locatelli, Stéphane Fusil, Stéphanie Girod, Cécile Carrétéro, Karin Garcia, Stéphane Xavier, Jean Tomas, Laurent Bellaiche, Manuel Bibes, Agnès Barthélémy, Sylvain Saïghi, Vincent Garcia\*
   link:
     url: https://www.nature.com/articles/ncomms14736
     display: Nat. Commun. 8, 14736 (2017)
-  highlight: 0
-  news2: See also <a href="https://www.universiteitleiden.nl/en/news/2016/09/melting-of-frozen-electrons-visualized"> Leiden University news </a> by Erik Arends, <a href="http://phys.org/news/2016-09-frozen-electrons-visualized.html"> Phys.org </a> 
+  highlight: 1
+  news2: See also <a href="http://www2.cnrs.fr/presse/communique/4965.htm"> CNRS news </a>, <a href="https://phys.org/news/2017-04-electronic-synapses-artificial-brain.html"> Phys.org </a> 
 
 - title: Properties of rare-earth iron garnets from first principles
   image: dummy.png
@@ -86,4 +86,4 @@
     display: Adv. Funct. Mater. 27, 1604513 (2017)
   highlight: 0
   news1: <a style="color:#FF0000; text-decoration:underline" href="http://www.nature.com/nphys/journal/v9/n8/full/nphys2708.html">Featured in 'News and Views' by L Taillefer</a>
-  news2: See also <a href="http://phys.org/news/2013-07-imaging-electron-pairing-simple-magnetic.html"> Phys.org</a>, <a href="http://davisgroup.lassp.cornell.edu/CeCoIn5_DoE.html">DoE headliner</a>
+  news2: 

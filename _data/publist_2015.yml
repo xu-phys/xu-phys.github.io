@@ -1,22 +1,22 @@
 - title: "Hybrid Improper Ferroelectricity in multiferroic superlattices: Finite-temperature Properties and Electric-field-driven Switching of Polarization and Magnetization"
-  image: dummy.png
-  description: ""
+  image: hif_switch.png
+  description: "In BRFO 1/1 superlattice (hybrid improper ferroelectric), the direction of the weak ferromagnetization can be controlled by the an electric field applied perpendicularly to the polarization. This is associated with two trilinear couplings connecting the polarization to the magnetic order, one being the trilinear coupling that leads to the hybrid improper ferroelelctricity, and the other is a Dzyaloshinskii-Moriya interaction."
   authors:
     <b>Bin Xu</b>, Dawei Wang , Hong Jian Zhao, Jorge Íñiguez, Xiang Ming Chen, and Laurent Bellaiche
   link:
     url: http://onlinelibrary.wiley.com/doi/10.1002/adfm.201501113/abstract
     display: Adv. Funct. Mater. 25 3626 (2015)
-  highlight: 0
+  highlight: 1
 
 - title: Finite-temperature Properties of Rare-Earth-Substituted BiFeO3 Multiferroic Solid Solutions
-  image: dummy.png
-  description: ""
+  image: BNFO_PM_AFM.jpg
+  description: "In BRFO (R=Nd in this work) disordered solid solution, an applied electric field can trigger a paramagnetic-to-antiferromagnetic transition in BNFO solid solutions, which is due to the strong magnetoelectric coupling in the vicinity of a critical point (triple point) where large variation of both magnetic and electric orders can be expected."
   authors:
     <b>Bin Xu</b>, Dawei Wang , Jorge Íñiguez, and Laurent Bellaiche
   link:
     url: http://onlinelibrary.wiley.com/doi/10.1002/adfm.201403811/full
     display: Adv. Funct. Mater. 25 552 (2015)
-  highlight: 0
+  highlight: 1
 
 - title: Prediction of a stable post-post-perovskite structure from first principles
   image: dummy.png

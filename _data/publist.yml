@@ -2,7 +2,7 @@
   image: dummy.png
   description: ""
   authors: 
-    Naihua Miao, <b>Bin Xu</b>, Nicholas C Bristowe, Jian Zhou, Zhimei Sun*
+    Naihua Miao, <b>Bin Xu</b>, Nicholas C Bristowe, Jian Zhou, Zhimei Sun\*
   link:
     url: http://pubs.acs.org/doi/abs/10.1021/jacs.7b05133
     display:  J. Am. Chem. Soc. 139, 11125 (2017)
@@ -10,52 +10,52 @@
   news2: 
 
 - title: Designing lead-free antiferroelectrics for energy storage
-  image: dummy.png
-  description: ""
+  image: BNFO_AFE.jpg
+  description: "The BRFO system is antiferroelectric (AFE) with relatively large composition of rare earth, and it is predicted to be very promising for high-power energy storage. Additionally, a simple model is derived to describe the energy density and efficiency of a general AFE material, providing a framework to assess the effect on the storage properties of variations in doping, electric field magnitude and direction, epitaxial strain, temperature, etc., which can facilitate future search of antiferroelectric materials for energy storage."
   authors: 
-    <b>Bin Xu</b>\*, Jorge Íñiguez, and Laurent Bellaiche*
+    <b>Bin Xu</b>\*, Jorge Íñiguez, and Laurent Bellaiche\*
   link:
     url: https://www.nature.com/articles/ncomms15682
     display:  Nat. Commun. 8 15682 (2017)
-  highlight: 0
-  news2: 
+  highlight: 1
+  news2: See also <a href="https://news.uark.edu/articles/39011/study-demonstrates-a-better-way-to-store-renewable-energy"> U of A news </a>, <a href="https://phys.org/news/2017-06-energy-renewable-sources-scientists-antiferroelectrics.html"> Phys.org </a> by Lisa Zyga
 
 - title: Photostrictive two-dimensional materials in the monochalcogenide family
   image: dummy.png
   description:
   authors: 
-    Raad Haleoot, Charles Paillard, Thaneshwor P. Kaloni, Mehrshad Mehboudi, <b>Bin Xu</b>, L. Bellaiche, and Salvador Barraza-Lopez*
+    Raad Haleoot, Charles Paillard, Thaneshwor P. Kaloni, Mehrshad Mehboudi, <b>Bin Xu</b>, L. Bellaiche, and Salvador Barraza-Lopez\*
   link:
     url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.118.227401
     display: Phys. Rev. Lett. 118, 227401 (2017)
   highlight: 0
   
 - title: Intrinsic polarization switching mechanisms in BiFeO3
-  image: dummy.png
-  description:
+  image: T-BFO_switch.png
+  description: "The polarization switching mechanisms in intrinsic BFO is found to be homogeneous in the rhombohedral phase, for which the polarization is strongly coupled to oxygen octahedral tiltings. On the other hand, in the super-tetragonal phase the switching mechanism changes with increasing electric field, which can be explained by the field dependence of the switching barriers as well as the hierarchy of these barriers between different switching processes."
   authors: 
-    Bin Xu*, Vincent Garcia, Stéphane Fusil, Manuel Bibes, and L. Bellaiche
+    <b>Bin Xu</b>\*, Vincent Garcia, Stéphane Fusil, Manuel Bibes, and L. Bellaiche
   link:
     url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.95.104104
     display: Phys. Rev. B 95, 104104(2017)
-  highlight: 0
+  highlight: 1
 
 - title: Learning through ferroelectric domain dynamics in solid-state synapses
-  image: dummy.jpg
-  description:
+  image: stdp.png
+  description: "The inhomogeneous switching can lead to memristive behavior when it is used in ferroelectric tunnel junctions (FTJ). In this work we report spike-timing-dependent plasticity (STDP) from BFO-based FTJs. The STDP behavior relies on the change of resistance states (memristor), which originates from the intrinsic inhomogeneous polarization switching. Unsupervised learning of pattern recognition is further demonstrated."
   authors: 
-    Sören Boyn\*, Julie Grollier, Gwendal Lecerf, Bin Xu, Nicolas Locatelli, Stéphane Fusil, Stéphanie Girod, Cécile Carrétéro, Karin Garcia, Stéphane Xavier, Jean Tomas, Laurent Bellaiche, Manuel Bibes, Agnès Barthélémy, Sylvain Saïghi, Vincent Garcia\*
+    Sören Boyn\*, Julie Grollier, Gwendal Lecerf, <b>Bin Xu</b>, Nicolas Locatelli, Stéphane Fusil, Stéphanie Girod, Cécile Carrétéro, Karin Garcia, Stéphane Xavier, Jean Tomas, Laurent Bellaiche, Manuel Bibes, Agnès Barthélémy, Sylvain Saïghi, Vincent Garcia\*
   link:
     url: https://www.nature.com/articles/ncomms14736
     display: Nat. Commun. 8, 14736 (2017)
-  highlight: 0
-  news2: See also <a href="https://www.universiteitleiden.nl/en/news/2016/09/melting-of-frozen-electrons-visualized"> Leiden University news </a> by Erik Arends, <a href="http://phys.org/news/2016-09-frozen-electrons-visualized.html"> Phys.org </a> 
+  highlight: 1
+  news2: See also <a href="http://www2.cnrs.fr/presse/communique/4965.htm"> CNRS news </a>, <a href="https://phys.org/news/2017-04-electronic-synapses-artificial-brain.html"> Phys.org </a> 
 
 - title: Properties of rare-earth iron garnets from first principles
   image: dummy.png
   description:
   authors:
-    Ryan Nakamoto, Bin Xu\*, Changsong Xu, Hu Xu, and L. Bellaiche\*
+    Ryan Nakamoto, <b>Bin Xu</b>\*, Changsong Xu, Hu Xu, and L. Bellaiche\*
   link:
     url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.95.024434
     display: Phys. Rev. B 95, 024434 (2017)
@@ -67,7 +67,7 @@
   image: dummy.png
   description: ""
   authors:
-    Naihua Miao, Jian Zhou, Baisheng Sa, Bin Xu, Zhimei Sun
+    Naihua Miao, Jian Zhou, Baisheng Sa, <b>Bin Xu</b>, Zhimei Sun
   link:
     url: http://www.sciencedirect.com/science/article/pii/S0925838816342803
     display: J. Alloys Compd. 699, 554-560 (2017)
@@ -80,20 +80,19 @@
   description:
     The heavy Fermion superconductor CeCoIn5 has a d-wave gap with nodes along the (1,1) direction, as we find using QPI.
   authors:
-    Changsong Xu, Yang Li, Bin Xu, Jorge Íñiguez, Wenhui Duan, and L. Bellaiche
+    Changsong Xu, Yang Li, <b>Bin Xu</b>, Jorge Íñiguez, Wenhui Duan, and L. Bellaiche
   link:
     url: http://onlinelibrary.wiley.com/doi/10.1002/adfm.201604513/abstract
     display: Adv. Funct. Mater. 27, 1604513 (2017)
   highlight: 0
   news1: <a style="color:#FF0000; text-decoration:underline" href="http://www.nature.com/nphys/journal/v9/n8/full/nphys2708.html">Featured in 'News and Views' by L Taillefer</a>
-  news2: See also <a href="http://phys.org/news/2013-07-imaging-electron-pairing-simple-magnetic.html"> Phys.org</a>, <a href="http://davisgroup.lassp.cornell.edu/CeCoIn5_DoE.html">DoE headliner</a>
-
+  news2: 
 - title: Pinched hysteresis loop in defect-free materials
   image: dummy.png
   description:
     Using APRES, we find that the bands in Sr3Ru2O7 look more like in heavy fermion material than in a normal metal. We present a detailed investigation into the formation of this particular electronic  structure.
   authors:
-    Bin Xu, Charles Paillard, Brahim Dkhil and L. Bellaiche
+    <b>Bin Xu</b>, Charles Paillard, Brahim Dkhil and L. Bellaiche
   link:
     url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.140101
     display: Phys. Rev. B 94, 140101(R) (2016)
@@ -117,7 +116,7 @@
   description:
     In contrast to earlier photoemission reports, we show that the gaps in iron based superconductors are not isotropic but modulated with angle.
   authors:
-    Cequn Li, Jing Fan, Bin Xu, and Hu Xu
+    Cequn Li, Jing Fan, <b>Bin Xu</b>, and Hu Xu
   link:
     url: http://aip.scitation.org/doi/abs/10.1063/1.4965433?journalCode=jcp
     display: J. Chem. Phys. 145, 164701 (2016)
@@ -127,7 +126,7 @@
 - title: Special quasirandom structures for perovskite solid solutions
   image: dummy.png
   description: ""
-  authors: Zhijun Jiang, Yousra Nahas, Bin Xu, Sergey Prosandeev, Dawei Wang and L. Bellaiche
+  authors: Zhijun Jiang, Yousra Nahas, <b>Bin Xu</b>, Sergey Prosandeev, Dawei Wang and L. Bellaiche
   link:
     url: http://iopscience.iop.org/article/10.1088/0953-8984/28/47/475901
     display:  "J. Phys.: Condens. Matter. 28, 475901 (2016)"
@@ -139,7 +138,7 @@
   description:
     We discovered an electronic nematic in the iron based superconductor Co-CaFe2As2! This state is by now confirmed and quite well characterized  by transport, photoemission, and more SI-STM experiments.
   authors:
-    Kinnary Patel, Sergey Prosandeev, Yurong Yang, Bin Xu, Jorge Íñiguez and L. Bellaiche
+    Kinnary Patel, Sergey Prosandeev, Yurong Yang, <b>Bin Xu</b>, Jorge Íñiguez and L. Bellaiche
   link:
     url: http://link.aps.org/doi/10.1103/PhysRevB.94.054107
     display: Phys. Rev. B 94, 054107 (2016)
@@ -151,7 +150,7 @@
   image: dummy.png
   description:
     QPI in Sr327.
-  authors: Qian Tao, Bastien Loret, Bin Xu, Xiaojun Yang, Carl Willem Rischau, Xiao Lin, Benoît Fauqué, Matthieu J. Verstraete, and Kamran Behnia
+  authors: Qian Tao, Bastien Loret, <b>Bin Xu</b>, Xiaojun Yang, Carl Willem Rischau, Xiao Lin, Benoît Fauqué, Matthieu J. Verstraete, and Kamran Behnia
   link:
     url: https://link.aps.org/doi/10.1103/PhysRevB.94.035111
     display: Phys. Rev. B 94 035111 (2016)
@@ -162,7 +161,7 @@
   description:
     We determine the Fermi surface of Sr327.
   authors:
-    M. Ormaza, L. Fernández, M. Ilyn, A. Magaña, B. Xu, M. J. Verstraete, M. Gastaldo, M. A. Valbuena, P. Gargiani, A. Mugarza, A. Ayuela, L. Vitali, M. Blanco-Rey, F. Schiller, and J. E. Ortega
+    M. Ormaza, L. Fernández, M. Ilyn, A. Magaña, <b>B. Xu</b>, M. J. Verstraete, M. Gastaldo, M. A. Valbuena, P. Gargiani, A. Mugarza, A. Ayuela, L. Vitali, M. Blanco-Rey, F. Schiller, and J. E. Ortega
   link:
     url: http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.6b01197
     display: Nano Lett. 16 4230 (2016)
@@ -173,7 +172,7 @@
   description:
     Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
   authors:
-    Charles Paillard, Bin Xu, Brahim Dkhil, Gregory Geneste, and L. Bellaiche
+    Charles Paillard, <b>Bin Xu</b>, Brahim Dkhil, Gregory Geneste, and L. Bellaiche
   link:
     url: http://link.aps.org/doi/10.1103/PhysRevLett.116.247401
     display: Phys. Rev. Lett. 116 247401 (2016)
@@ -183,7 +182,7 @@
   image: dummy.png
   description: ""
   authors:
-    Naihua Miao, Jian Zhou, Baisheng Sa, Bin Xu, and Zhimei Sun
+    Naihua Miao, Jian Zhou, Baisheng Sa, <b>Bin Xu</b>, and Zhimei Sun
   link:
     url: http://aip.scitation.org/doi/abs/10.1063/1.4952598?journalCode=apl
     display: Appl. Phys. Lett. 108 213902 (2016)
@@ -193,7 +192,7 @@
   image: dummy.png
   description: ""
   authors:
-    X. Gonze, F. Jollet, F. Abreu Araujo, D. Adams, B. Amadon, T. Applencourt, C. Audouze, J.-M. Beuken, J. Bieder, A. Bokhanchuk, E. Bousquet, F. Bruneval, D. Caliste, M. Côté, F. Dahm, F. Da Pieve, M. Delaveau, M. Di Gennaro, B. Dorado, C. Espejo, G. Geneste, L. Genovese, A. Gerossier, M. Giantomassi, Y. Gillet, D.R. Hamann, L. He, G. Jomard, J. Laflamme Janssen, S. Le Roux, A. Levitt, 5, A. Lherbier, F. Liu, I. Luka ̆cević, A. Martin, C. Martins, M.J.T. Oliveira, S. Poncé, Y. Pouillon, T. Rangel, G.-M. Rignanese, A.H. Romero, B. Rousseau, O. Rubel, A.A. Shukri, M. Stankovski, M. Torrent, M.J. Van Setten, B. Van Troeye, M.J. Verstraete, D. Waroquiers, J. Wiktor, B. Xu, A. Zhou, J.W. Zwanziger
+    X. Gonze, F. Jollet, F. Abreu Araujo, D. Adams, B. Amadon, T. Applencourt, C. Audouze, J.-M. Beuken, J. Bieder, A. Bokhanchuk, E. Bousquet, F. Bruneval, D. Caliste, M. Côté, F. Dahm, F. Da Pieve, M. Delaveau, M. Di Gennaro, B. Dorado, C. Espejo, G. Geneste, L. Genovese, A. Gerossier, M. Giantomassi, Y. Gillet, D.R. Hamann, L. He, G. Jomard, J. Laflamme Janssen, S. Le Roux, A. Levitt, 5, A. Lherbier, F. Liu, I. Luka ̆cević, A. Martin, C. Martins, M.J.T. Oliveira, S. Poncé, Y. Pouillon, T. Rangel, G.-M. Rignanese, A.H. Romero, B. Rousseau, O. Rubel, A.A. Shukri, M. Stankovski, M. Torrent, M.J. Van Setten, B. Van Troeye, M.J. Verstraete, D. Waroquiers, J. Wiktor, <b>B. Xu</b>, A. Zhou, J.W. Zwanziger
   link:
     url: http://www.sciencedirect.com/science/article/pii/S0010465516300923
     display: Comput. Phys. Commun. 205 106 (2016)
@@ -203,7 +202,7 @@
   image: dummy.png
   description: ""
   authors:
-    Naihua Miao, Bin Xu, Nicholas C. Bristowe, Daniel I. Bilc, Matthieu J. Verstraete, and Philippe Ghosez
+    Naihua Miao, <b>Bin Xu</b>, Nicholas C. Bristowe, Daniel I. Bilc, Matthieu J. Verstraete, and Philippe Ghosez
   link:
     url: http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b02514
     display: J. Phys. Chem. C 120 9112 (2016)
@@ -213,60 +212,147 @@
   image: dummy.png
   description: ""
   authors:
-    D. Sando, Bin Xu, L. Bellaiche, and V. Nagarajan
+    D. Sando, <b>Bin Xu</b>, L. Bellaiche, and V. Nagarajan
   link:
     url: http://aip.scitation.org/doi/full/10.1063/1.4944558
     display: Appl. Phys. Rev. 3 011106 (2016)
   highlight: 0
+- title: "Hybrid Improper Ferroelectricity in multiferroic superlattices: Finite-temperature Properties and Electric-field-driven Switching of Polarization and Magnetization"
+  image: hif_switch.png
+  description: "In BRFO 1/1 superlattice (hybrid improper ferroelectric), the direction of the weak ferromagnetization can be controlled by the an electric field applied perpendicularly to the polarization. This is associated with two trilinear couplings connecting the polarization to the magnetic order, one being the trilinear coupling that leads to the hybrid improper ferroelelctricity, and the other is a Dzyaloshinskii-Moriya interaction."
+  authors:
+    <b>Bin Xu</b>, Dawei Wang , Hong Jian Zhao, Jorge Íñiguez, Xiang Ming Chen, and Laurent Bellaiche
+  link:
+    url: http://onlinelibrary.wiley.com/doi/10.1002/adfm.201501113/abstract
+    display: Adv. Funct. Mater. 25 3626 (2015)
+  highlight: 1
 
-- title: Pressure-induced semimetal-semiconductor transition and enhancement of thermoelectric performance in α-MgAgSb
+- title: Finite-temperature Properties of Rare-Earth-Substituted BiFeO3 Multiferroic Solid Solutions
+  image: BNFO_PM_AFM.jpg
+  description: "In BRFO (R=Nd in this work) disordered solid solution, an applied electric field can trigger a paramagnetic-to-antiferromagnetic transition in BNFO solid solutions, which is due to the strong magnetoelectric coupling in the vicinity of a critical point (triple point) where large variation of both magnetic and electric orders can be expected."
+  authors:
+    <b>Bin Xu</b>, Dawei Wang , Jorge Íñiguez, and Laurent Bellaiche
+  link:
+    url: http://onlinelibrary.wiley.com/doi/10.1002/adfm.201403811/full
+    display: Adv. Funct. Mater. 25 552 (2015)
+  highlight: 1
+
+- title: Prediction of a stable post-post-perovskite structure from first principles
   image: dummy.png
   description: ""
   authors:
-    Naihua Miao, Jian Zhou, Baisheng Sa, Bin Xu, and Zhimei Sun
+    Changsong Xu, <b>Bin Xu</b>, Yurong Yang, Huafeng Dong, Artem R. Oganov, Shanying Wang, Wenhui Duan, Binglin Gu, and L. Bellaiche
   link:
-    url: http://aip.scitation.org/doi/abs/10.1063/1.4952598?journalCode=apl
-    display: Appl. Phys. Lett. 108 213902 (2016)
+    url: http://link.aps.org/doi/10.1103/PhysRevB.91.020101
+    display: Phys. Rev. B 91 020101(R) (2015)
   highlight: 0
 
-- title: Pressure-induced semimetal-semiconductor transition and enhancement of thermoelectric performance in α-MgAgSb
+- title: Electric dipole sheets in BaTiO3/BaZrO3 superlattices
   image: dummy.png
   description: ""
   authors:
-    Naihua Miao, Jian Zhou, Baisheng Sa, Bin Xu, and Zhimei Sun
+    Zhijun Jiang, <b>Bin Xu</b>, Fei Li, Dawei Wang, and C.-L. Jia
   link:
-    url: http://aip.scitation.org/doi/abs/10.1063/1.4952598?journalCode=apl
-    display: Appl. Phys. Lett. 108 213902 (2016)
+    url: http://link.aps.org/doi/10.1103/PhysRevB.91.014105
+    display: Phys. Rev. B 91 014105 (2015)
   highlight: 0
+- title: First Principles explanation of the positive Seebeck coefficient of lithium
+  image: sbk_li.png
+  description: "With the fully-first-principles approach based on electron-phonon interactions, the abnormal sign of Seebeck coefficient in lithium is found to be due to stronger scattering of electrons than holes due to the significantly increasing density of states near the Fermi level. The electron-phonon interaction is found to be less relevant. Band engineering combined with this mechanism may open the door to new “ambipolar” thermoelectric materials, with a tunable sign for the thermopower even if either n- or p-type doping is impossible."
+  authors: 
+    <b>Bin Xu</b> and Matthieu J. Verstraete
+  link:
+    url: http://link.aps.org/doi/10.1103/PhysRevLett.112.196603
+    display:  Phys. Rev. Lett. 112 196603 (2014)
+  highlight: 1
+  news2: 
 
-- title: Pressure-induced semimetal-semiconductor transition and enhancement of thermoelectric performance in α-MgAgSb
+- title: Ab initio calculation of the thermal conductivity of indium antimonide
+  image: dummy.png
+  description: ""
+  authors: 
+    Alonso L Miranda, <b>Bin Xu</b>, Olle Hellman, Aldo H Romero, and Matthieu Verstraete
+  link:
+    url: http://iopscience.iop.org/article/10.1088/0268-1242/29/12/124002/meta
+    display:  Semicond. Sci. Technol. 29 124002 (2014)
+  highlight: 0
+  news2: 
+
+- title: First-principles study of the lattice dynamical properties of strontium ruthenate
+  image: dummy.png
+  description:
+  authors: 
+    Naihua Miao, Nicholas C Bristowe, <b>Bin Xu</b>, Matthieu Verstraete and Philippe Ghosez
+  link:
+    url: http://iopscience.iop.org/article/10.1088/0953-8984/26/3/035401
+    display: "J. Phys.: Condens. Matter. 26(3) 035401 (2014)"
+  highlight: 0
+- title: First-principles study of transport properties in Os and OsSi
   image: dummy.png
   description: ""
   authors:
-    Naihua Miao, Jian Zhou, Baisheng Sa, Bin Xu, and Zhimei Sun
+    <b>Bin Xu</b> and Matthieu J. Verstraete
   link:
-    url: http://aip.scitation.org/doi/abs/10.1063/1.4952598?journalCode=apl
-    display: Appl. Phys. Lett. 108 213902 (2016)
+    url: http://link.aps.org/doi/10.1103/PhysRevB.87.134302
+    display: Phys. Rev. B 87 134302 (2013)
   highlight: 0
 
-- title: Pressure-induced semimetal-semiconductor transition and enhancement of thermoelectric performance in α-MgAgSb
+- title: LaAu2 and CeAu2 surface intermetallic compounds grown by reactive deposition on Au(111)
   image: dummy.png
   description: ""
   authors:
-    Naihua Miao, Jian Zhou, Baisheng Sa, Bin Xu, and Zhimei Sun
+    M. Ormaza, L. Fernández, S. Lafuente, M. Corso, F. Schiller, <b>B. Xu</b>, M. Diakhate, M. J. Verstraete, and J. E. Ortega
   link:
-    url: http://aip.scitation.org/doi/abs/10.1063/1.4952598?journalCode=apl
-    display: Appl. Phys. Lett. 108 213902 (2016)
+    url: http://link.aps.org/doi/10.1103/PhysRevB.88.125405
+    display: Phys. Rev. B 88 125405 (2013)
   highlight: 0
 
-- title: Pressure-induced semimetal-semiconductor transition and enhancement of thermoelectric performance in α-MgAgSb
+- title: "Equilibrium and metastable phase transitions in silicon nitride at high pressure: a first-principles and experimental study"
+  image: Si3N4.png
+  description: "We combined first-principles calculations and high-pressure experiments to study pressure-induced phase transitions in Si3N4. Within the quasi-harmonic approximation, we predict that the α phase is always metastable relative to the β phase over a wide pressure-temperature range. Two competing phonon-softening mechanisms are predicted in the β-Si3N4. When the equilibrium β → γ transition is bypassed at room temperature (RT) due to kinetic reason, the β phase is predicted to undergo a first-order structural transformation to a denser P-6 phase above 39 GPa, confirmed by high-pressure x-ray diffraction experiment."
+  authors:
+    <b>Bin Xu</b>, Jianjun Dong, Paul F. McMillan, Olga Shebanova, and Ashkan Salamat
+  link:
+    url: http://link.aps.org/doi/10.1103/PhysRevB.84.014113
+    display: Phys. Rev. B 84 014113 (2011)
+  highlight: 1
+
+- title: First-principles calculation of kinetic barriers and metastability for the corundum-to-Rh2O3(II) transition in Al2O3
+  image: Al2O3.png
+  description: "We demonstrate that the rhombohedral corundum phase and the orthorhombic Rh2O3(II) phase are structurally related by a diffusionless monoclinic common subgroup pathway, along which the intermediate structures have the space group P2/c symmetry. This transformation pathway is energetically favored because the majority of Al–O bonds are preserved during the transition. The calculated enthalpy barriers are consistent with the observed metastability of the corundum and Rh2O3(II) phases around room temperature."
+  authors:
+    <b>Bin Xu</b>, Harold Stokes, and Jianjun Dong
+  link:
+    url: http://iopscience.iop.org/article/10.1088/0953-8984/22/31/315403/meta
+    display: "J. Phys.: Condens. Matter. 22 (31), 315403 (2010)"
+  highlight: 1
+
+- title: High-pressure study of β-to-α transition in Ga2O3
   image: dummy.png
   description: ""
   authors:
-    Naihua Miao, Jian Zhou, Baisheng Sa, Bin Xu, and Zhimei Sun
+    Denis Machon, Paul F. McMillan, <b>Bin Xu</b>, and Jianjun Dong
   link:
-    url: http://aip.scitation.org/doi/abs/10.1063/1.4952598?journalCode=apl
-    display: Appl. Phys. Lett. 108 213902 (2016)
+    url: http://link.aps.org/doi/10.1103/PhysRevB.73.094125
+    display: Phys. Rev. B 73, 094125 (2006)
   highlight: 0
 
+- title: "Spinel-Structured Gallium Oxynitride (Ga3O3N) Synthesis and Characterization: An Experimental and theoretical Study"
+  image: dummy.png
+  description: ""
+  authors:
+    Emmanuel Soignard, Denis Machon, Paul F. McMillan, Jianjun Dong, <b>Bin Xu</b>, and Kurt Leinenweber
+  link:
+    url: http://pubs.acs.org/doi/abs/10.1021/cm051224p
+    display: Chem. Mater. 17 (22), 5465, (2005)
+  highlight: 0
 
+- title: Blueshifted Raman scattering and its correlation with the [110] growth direction in gallium oxide nanowires
+  image: dummy.png
+  description: ""
+  authors:
+    R. Rao, A. M. Rao, <b>B. Xu</b>, J. Dong, S. Sharma, and M. K. Sunkara
+  link:
+    url: http://aip.scitation.org/doi/abs/10.1063/1.2128044?journalCode=jap
+    display: J. Appl. Phys. 98(9), 094312, (2005)
+  highlight: 0

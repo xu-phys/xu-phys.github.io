@@ -1,12 +1,12 @@
 - title: First Principles explanation of the positive Seebeck coefficient of lithium
-  image: dummy.png
-  description: ""
+  image: sbk_li.png
+  description: "With the fully-first-principles approach based on electron-phonon interactions, the abnormal sign of Seebeck coefficient in lithium is found to be due to stronger scattering of electrons than holes due to the significantly increasing density of states near the Fermi level. The electron-phonon interaction is found to be less relevant. Band engineering combined with this mechanism may open the door to new “ambipolar” thermoelectric materials, with a tunable sign for the thermopower even if either n- or p-type doping is impossible."
   authors: 
     <b>Bin Xu</b> and Matthieu J. Verstraete
   link:
     url: http://link.aps.org/doi/10.1103/PhysRevLett.112.196603
     display:  Phys. Rev. Lett. 112 196603 (2014)
-  highlight: 0
+  highlight: 1
   news2: 
 
 - title: Ab initio calculation of the thermal conductivity of indium antimonide

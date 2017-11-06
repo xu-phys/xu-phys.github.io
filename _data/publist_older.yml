@@ -19,24 +19,24 @@
   highlight: 0
 
 - title: "Equilibrium and metastable phase transitions in silicon nitride at high pressure: a first-principles and experimental study"
-  image: dummy.png
-  description: ""
+  image: Si3N4.png
+  description: "We combined first-principles calculations and high-pressure experiments to study pressure-induced phase transitions in Si3N4. Within the quasi-harmonic approximation, we predict that the α phase is always metastable relative to the β phase over a wide pressure-temperature range. Two competing phonon-softening mechanisms are predicted in the β-Si3N4. When the equilibrium β → γ transition is bypassed at room temperature (RT) due to kinetic reason, the β phase is predicted to undergo a first-order structural transformation to a denser P-6 phase above 39 GPa, confirmed by high-pressure x-ray diffraction experiment."
   authors:
     <b>Bin Xu</b>, Jianjun Dong, Paul F. McMillan, Olga Shebanova, and Ashkan Salamat
   link:
     url: http://link.aps.org/doi/10.1103/PhysRevB.84.014113
     display: Phys. Rev. B 84 014113 (2011)
-  highlight: 0
+  highlight: 1
 
-- title: First-principles calculation of kinetic barriers and metastability for the corundum- to-Rh2O3(II) transition in Al2O3
-  image: dummy.png
-  description: ""
+- title: First-principles calculation of kinetic barriers and metastability for the corundum-to-Rh2O3(II) transition in Al2O3
+  image: Al2O3.png
+  description: "We demonstrate that the rhombohedral corundum phase and the orthorhombic Rh2O3(II) phase are structurally related by a diffusionless monoclinic common subgroup pathway, along which the intermediate structures have the space group P2/c symmetry. This transformation pathway is energetically favored because the majority of Al–O bonds are preserved during the transition. The calculated enthalpy barriers are consistent with the observed metastability of the corundum and Rh2O3(II) phases around room temperature."
   authors:
     <b>Bin Xu</b>, Harold Stokes, and Jianjun Dong
   link:
     url: http://iopscience.iop.org/article/10.1088/0953-8984/22/31/315403/meta
     display: "J. Phys.: Condens. Matter. 22 (31), 315403 (2010)"
-  highlight: 0
+  highlight: 1
 
 - title: High-pressure study of β-to-α transition in Ga2O3
   image: dummy.png
