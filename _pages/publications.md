@@ -54,6 +54,15 @@ permalink: /publications/
 
 ## Full List
 
+* 2018
+
+{% for publi in site.data.publist_2018 %}
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endfor %}
+
 * 2017
 
 {% for publi in site.data.publist_2017 %}
@@ -90,7 +99,7 @@ permalink: /publications/
 
 {% endfor %}
 
-* 2006 - 2013
+* 2005 - 2013
 
 {% for publi in site.data.publist_older %}
 
