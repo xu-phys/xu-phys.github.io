@@ -19,7 +19,7 @@ permalink: /teaching/
 
 # Guest Lecturer
 
-{% for teach in site.data.lecturer %}
+{% for teach in site.data.guest_lecturer %}
 
   <b>{{ teach.title }}</b> <br />
   * {{ teach.univ }} <br />
