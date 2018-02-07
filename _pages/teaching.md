@@ -17,6 +17,17 @@ permalink: /teaching/
 
 {% endfor %}
 
+# Guest Lecturer
+
+{% for teach in site.data.lecturer %}
+
+  <b>{{ teach.title }}</b> <br />
+  * {{ teach.univ }} <br />
+  * {{ teach.year }} <br />
+  * {{ teach.details }} <br />
+
+{% endfor %}
+
 # Teaching assistant
 
 {% for teach in site.data.ta %}

@@ -1,3 +1,14 @@
+- title: 2D Intrinsic Ferromagnets from van der Waals Antiferromagnets
+  image: dummy.png
+  description: ""
+  authors: 
+    Naihua Miao, <b>Bin Xu</b>, Linggang Zhu, Jian Zhou, Zhimei Sun\*
+  link:
+    url: 
+    display:  "J. Am. Chem. Soc. (accepted)"
+  highlight: 0
+  news2: 
+
 - title: Photostriction and elasto-optic response in multiferroics and ferroelectrics from first principles
   image: dummy.png
   description: ""
@@ -5,7 +16,17 @@
     Yurong Yang, Charles Paillard, <b>Bin Xu</b>, and L. Bellaiche
   link:
     url: http://iopscience.iop.org/article/10.1088/1361-648X/aaa51f
-    display:  "J. Phys.: Condens. Matter. (accepted)"
+    display:  "J. Phys.: Condens. Matter. 30, 073001 (2018)"
   highlight: 0
   news2: 
 
+- title: Controllable dissociation of H2O on CeO2 (111) surface
+  image: dummy.png
+  description: ""
+  authors: 
+    Jing Fan, <b>Bin Xu</b>,  Jinzhu Zhao  and  Hu Xu
+  link:
+    url: http://pubs.rsc.org/en/content/articlehtml/2017/cp/c7cp06117j
+    display:  "Phys. Chem. Chem. Phys. 20, 1575 (2018)"
+  highlight: 0
+  news2: 
