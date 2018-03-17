@@ -17,12 +17,17 @@ permalink: /links/
   * [Amplimodes](http://www.cryst.ehu.es/cryst/amplimodes.html)
   * [ISOTROPY](http://stokes.byu.edu/iso/isotropy.php)
   * [Tolerance Factor Calculator](http://www.me.utexas.edu/~benedekgroup/ToleranceFactorCalculator/#home)
+  * [BandUP](https://www.ifm.liu.se/theomod/compphys/band-unfolding/)
 
 ### Database
 
   * [Materials Project](https://materialsproject.org/)
   * [AFLOW](http://aflowlib.org)
   * [NOMAD](https://nomad-repository.eu/)
+  * [AiiDA](http://www.aiida.net)
+  * [MATERIALSCLOUD](https://www.materialscloud.org)
+  * [OMDB](https://omdb.diracmaterials.org)
+  * [OQMD](http://oqmd.org)
   * [MaterialsWeb](https://materialsweb.org/)
   * [WURM](http://wurm.info)
   * [Bilbao Crystallographic Server](http://www.cryst.ehu.es)
