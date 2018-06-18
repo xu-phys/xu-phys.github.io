@@ -1,3 +1,25 @@
+- title: Understanding and revisiting the most complex perovskite system via atomistic simulations
+  image: dummy.png
+  description: ""
+  authors: 
+    Yali Yang, Bin Xu, Changsong Xu, Wei Ren, and Laurent Bellaiche
+  link:
+    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.97.174106
+    display:  "Phys. Rev. B 97, 174106(2018)"
+  highlight: 0
+  news2: 
+
+- title: "The Intrinsic Role of Excess Electrons in Surface Reactions on Rutile TiO2 (110): Using Water and Oxygen as Probes"
+  image: dummy.png
+  description: ""
+  authors: 
+    Hao Tian, Bin Xu, Jing Fan, and Hu Xu
+  link:
+    url: https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.7b12451
+    display:  "J. Phys. Chem. C 122, 8270 (2018)"
+  highlight: 0
+  news2: 
+
 - title: 2D Intrinsic Ferromagnets from van der Waals Antiferromagnets
   image: dummy.png
   description: ""
