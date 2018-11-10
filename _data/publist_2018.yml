@@ -2,7 +2,7 @@
   image: dummy.png
   description: ""
   authors: 
-    <b>Bin Xu</b>, Bertrand Dup\'e, Changsong Xu, Hongjun Xiang, and L. Bellaiche
+    <b>Bin Xu</b>, Bertrand Dupé, Changsong Xu, Hongjun Xiang, and L. Bellaiche
   link:
     url: 
     display:  "Phys. Rev. B (accepted)"
@@ -13,14 +13,14 @@
   image: dummy.png
   description: ""
   authors: 
-    Jing Chen`$^{\dagger}$`, <b>Bin Xu</b>`$^{\dagger}$`, Xiao Qiang Liu, Ting Ting Gao, Laurent Bellaiche and Xiang Ming Chen
+    Jing Chen#, <b>Bin Xu</b>#, Xiao Qiang Liu, Ting Ting Gao, Laurent Bellaiche and Xiang Ming Chen
   link:
     url: 
     display:  "Adv. Funct. Mater. (accepted)"
   highlight: 0
   news2: 
 
-- title: Refreshing Piezoelectrics: Distinctive Role of Manganese in Lead-Free Perovskites
+- title: "Refreshing Piezoelectrics: Distinctive Role of Manganese in Lead-Free Perovskites"
   image: dummy.png
   description: ""
   authors: 
@@ -31,7 +31,7 @@
   highlight: 0
   news2: 
 
-- title: Polarization switching in the PbMg1/3Nb2/3O3 relaxor ferroelectric: An atomistic effective Hamiltonian study
+- title: "Polarization switching in the PbMg1/3Nb2/3O3 relaxor ferroelectric: An atomistic effective Hamiltonian study"
   image: dummy.png
   description: ""
   authors: 
