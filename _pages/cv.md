@@ -80,7 +80,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 (2013-2014) <b>Guest editor</b> Advances in Multiscale Modeling and Computational Mechanics, Hindawi
 
-(2009-now) <b>Journal Referee/Reviewer</b> Nature Communications, Advanced Materials, Physical Review Letters, Advanced Electronic Materials, Advanced Materials Interfaces, Small, Nanoscale, Physical Review B, Physical Review Materials, Journal of Physics: Condensed Matter, Scientific Reports, Journal of the American Ceramic Society, Physica Status Solidi B: Basic Solid State Physics, New Journal of Physics, Computational Materials Science, Journal of Alloys and Compounds, Journal of Physics D: Applied Physics, Physica B, Chinese Physics B, High Pressure Research
+(2009-now) <b>Journal Referee/Reviewer</b> Nature Communications, Advanced Materials, Physical Review Letters, Physical Review Applied, Advanced Electronic Materials, Advanced Materials Interfaces, Small, Nanoscale, Physical Review B, Physical Review Materials, Journal of Physics: Condensed Matter, Scientific Reports, Journal of Applied Physics, Journal of the American Ceramic Society, Physica Status Solidi B: Basic Solid State Physics, New Journal of Physics, Computational Materials Science, Journal of Alloys and Compounds, Journal of Physics D: Applied Physics, Physica B, Chinese Physics B, High Pressure Research
 
 <!--
 

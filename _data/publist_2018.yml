@@ -1,3 +1,58 @@
+- title: Revisiting spin cycloids in multiferroic BiFeO3
+  image: dummy.png
+  description: ""
+  authors: 
+    <b>Bin Xu</b>, Bertrand Dup\'e, Changsong Xu, Hongjun Xiang, and L. Bellaiche
+  link:
+    url: 
+    display:  "Phys. Rev. B (accepted)"
+  highlight: 0
+  news2: 
+
+- title: Symmetry modulation and enhanced multiferroic characteristics in Bi1-xNdxFeO3 ceramics
+  image: dummy.png
+  description: ""
+  authors: 
+    Jing Chen`$^{\dagger}$`, <b>Bin Xu</b>`$^{\dagger}$`, Xiao Qiang Liu, Ting Ting Gao, Laurent Bellaiche and Xiang Ming Chen
+  link:
+    url: 
+    display:  "Adv. Funct. Mater. (accepted)"
+  highlight: 0
+  news2: 
+
+- title: Refreshing Piezoelectrics: Distinctive Role of Manganese in Lead-Free Perovskites
+  image: dummy.png
+  description: ""
+  authors: 
+    Fang-Zhou Yao, Mao-Hua Zhang, Ke Wang, Jia-Jun Zhou, Feng Chen, <b>Bin Xu</b>, Fei Li, Yang Shen, Qing-Hua Zhang, Lin Gu, Xiao-Wen Zhang, Jing-Feng Li
+  link:
+    url: https://pubs.acs.org/doi/abs/10.1021/acsami.8b14958
+    display:  "ACS Appl. Mater. Interfaces 10, 37298 (2018)"
+  highlight: 0
+  news2: 
+
+- title: Polarization switching in the PbMg1/3Nb2/3O3 relaxor ferroelectric: An atomistic effective Hamiltonian study
+  image: dummy.png
+  description: ""
+  authors: 
+    Sergey Prosandeev, <b>Bin Xu</b>, L Bellaiche
+  link:
+    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.024105
+    display:  "Phys. Rev. B 98, 024105 (2018)"
+  highlight: 0
+  news2: 
+
+- title: Giant resistive switching in mixed phase BiFeO3 via phase population control
+  image: dummy.png
+  description: ""
+  authors: 
+    David Edwards, Niall Browne, Kristina M. Holsgrove, Aaron B. Naden, Sayed O. Sayedaghaee, <b>Bin Xu</b>, Sergey Prosandeev, Dawei Wang, Dipanjan Mazumdar, Martial Duchamp, Arunava Gupta, Sergei V. Kalinin, Miryam Arredondo, Raymond G. P. McQuaid, Laurent Bellaiche, J. Marty Gregg and Amit Kumar
+  link:
+    url: https://dx.doi.org/10.1039/C8NR03653E
+    display:  "Nanoscale 10, 17629 (2018)"
+  highlight: 0
+  news2: 
+
 - title: Understanding and revisiting the most complex perovskite system via atomistic simulations
   image: dummy.png
   description: ""
