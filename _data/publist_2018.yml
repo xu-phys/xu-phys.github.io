@@ -4,8 +4,8 @@
   authors: 
     <b>Bin Xu</b>, Bertrand Dupé, Changsong Xu, Hongjun Xiang, and L. Bellaiche
   link:
-    url: 
-    display:  "Phys. Rev. B (accepted)"
+    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.184420
+    display:  "Phys. Rev. B 98, 184420 (2018)"
   highlight: 0
   news2: 
 
@@ -15,8 +15,8 @@
   authors: 
     Jing Chen#, <b>Bin Xu</b>#, Xiao Qiang Liu, Ting Ting Gao, Laurent Bellaiche and Xiang Ming Chen
   link:
-    url: 
-    display:  "Adv. Funct. Mater. (accepted)"
+    url: https://doi.org/10.1002/adfm.201806399
+    display:  "Adv. Funct. Mater. DOI: 10.1002/adfm.201806399 (2018)"
   highlight: 0
   news2: 
 
@@ -35,7 +35,7 @@
   image: dummy.png
   description: ""
   authors: 
-    Sergey Prosandeev, <b>Bin Xu</b>, L Bellaiche
+    Sergey Prosandeev, <b>Bin Xu</b>, L. Bellaiche
   link:
     url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.024105
     display:  "Phys. Rev. B 98, 024105 (2018)"
