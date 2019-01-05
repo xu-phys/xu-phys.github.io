@@ -1,5 +1,5 @@
 ---
-title: "Bin Xu's website - Teaching"
+title: "Xu group @ Soochow University - Teaching"
 layout: textlay
 excerpt: "Bin Xu's website -- Teaching"
 sitemap: false

@@ -1,16 +1,18 @@
 ---
-title: "Bin Xu's website - Home"
+title: "Xu group @ Soochow University - Home"
 layout: homelay
-excerpt: "Bin Xu's personal website."
+excerpt: "Bin Xu's group website."
 sitemap: false
 permalink: /
 ---
 
 <!-- This website is adapted from the Allan Lab github repository (thanks for providing an elegant template), and I am working to replace with my info. Sorry if you see some previous content before I am done. -->
 
-I am currently a Research Assisant Professor working in the [Computational Condensed Matter Physics (CCMP) Group](https://ccmp.uark.edu/)(lead by Prof. [Laurent Bellaiche](https://fulbright.uark.edu/departments/physics/directory/index/uid/laurent/name/Laurent-Bellaiche/)) at the [Physics Department at Univerisity of Arkansas](http://fulbright.uark.edu/departments/physics). Before that, I had been a postoctoral researcher at [Université de Liège](https://www.ulg.ac.be/cms/c_5000/en/home) in the [Nanomat lab](http://www.nanomat.ulg.ac.be/) (lead by Prof. [Matthieu Verstraete](http://www.nanomat.ulg.ac.be/?page_id=26)), and at the [University of Texas at Arlington](http://www.uta.edu) in the group of Prof. [Peter Kroll](https://mentis.uta.edu/explore/profile/dr-peter-kroll). I obtained my B.S. degree in physics at [University of Science and Technology of China (USTC)](http://en.ustc.edu.cn), and my Ph.D. degree in physics at [Auburn University](http://www.auburn.edu) (supervisor Prof. [Jianjun Dong](http://www.auburn.edu/cosam/faculty/physics/dong/index.htm)). For full details see my [CV](cv).
+We are a research group focusing on computational condensed matter physics, using density functional theory, effective Hamiltonian, statistical physics, transport theory and computational techniques to investigate materials of fundamental and technological interests. We are particularly interested in the first-principles-based studies of ferroelectrics, multiferroics, thermoelectric properties, and structural transformations.
 
-My research is in the field of computational solid state physics, using density functional theory, effective Hamiltonian, statistical physics, transport theory and computational techniques to investigate materials of fundamental and technological interests. I am particularly interested in the first-principles-based studies of ferroelectrics, multiferroics, thermoelectric properties, and structural transformations.
+Before joining Soochow University, I was a Research Assisant Professor working in the [Computational Condensed Matter Physics (CCMP) Group](https://ccmp.uark.edu/)(lead by Prof. [Laurent Bellaiche](https://fulbright.uark.edu/departments/physics/directory/index/uid/laurent/name/Laurent-Bellaiche/)) at the [Physics Department at Univerisity of Arkansas](http://fulbright.uark.edu/departments/physics), a postoctoral researcher at [Université de Liège](https://www.ulg.ac.be/cms/c_5000/en/home) in the [Nanomat lab](http://www.nanomat.ulg.ac.be/) (lead by Prof. [Matthieu Verstraete](http://www.nanomat.ulg.ac.be/?page_id=26)), and at the [University of Texas at Arlington](http://www.uta.edu) in the group of Prof. [Peter Kroll](https://mentis.uta.edu/explore/profile/dr-peter-kroll). I obtained my B.S. degree in physics at [University of Science and Technology of China (USTC)](http://en.ustc.edu.cn), and my Ph.D. degree in physics at [Auburn University](http://www.auburn.edu) (supervisor Prof. [Jianjun Dong](http://www.auburn.edu/cosam/faculty/physics/dong/index.htm)). For full details see my [CV](cv).
+
+We are located at the city center of Suzhou, formerly romanized as Soochow, which is a major city of East China (close to Shanghai) and home of the well-known classical gardens. **We are looking for passionate new Master and PhD students to join the team (contact information below)!**
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
