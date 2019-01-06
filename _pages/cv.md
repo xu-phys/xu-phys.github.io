@@ -1,7 +1,7 @@
 ---
 title: "Xu group @ Soochow University - CV"
 layout: gridlay
-excerpt: "Bin Xu's website - CV"
+excerpt: "Xu group @ Soochow University - CV"
 sitemap: false
 permalink: /cv/
 ---

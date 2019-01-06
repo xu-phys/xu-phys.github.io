@@ -1,7 +1,7 @@
 ---
 title: "Xu group @ Soochow University - Links"
 layout: textlay
-excerpt: "Bin Xu's website -- Links"
+excerpt: "Xu group @ Soochow University -- Links"
 sitemap: false
 permalink: /links/
 ---

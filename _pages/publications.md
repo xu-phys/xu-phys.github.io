@@ -1,7 +1,7 @@
 ---
 title: "Xu group @ Soochow University - Publications"
 layout: gridlay
-excerpt: "Bin Xu's website -- Publications."
+excerpt: "Xu group @ Soochow University -- Publications."
 sitemap: false
 permalink: /publications/
 ---

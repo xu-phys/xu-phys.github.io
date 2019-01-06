@@ -1,7 +1,7 @@
 ---
 title: "Xu group @ Soochow University - People"
 layout: gridlay
-excerpt: "Bin Xu's website - People"
+excerpt: "Xu group @ Soochow University - People"
 sitemap: false
 permalink: /people/
 ---
