@@ -54,6 +54,15 @@ permalink: /publications/
 
 ## Full List
 
+* 2019
+
+{% for publi in site.data.publist_2019 %}
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endfor %}
+
 * 2018
 
 {% for publi in site.data.publist_2018 %}
